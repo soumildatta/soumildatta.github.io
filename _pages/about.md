@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a final year Master's student studying Computer Science at the University of Mississippi. I am part of the [Heterogeneous Research Lab (HEROES)](https://john.cs.olemiss.edu/heroes/) at the University of Mississippi where I research and help develop concurrent data structures.
+
+My research interests include parallel programming and machine learning applications. My current research is focused on developing a concurrent priority queue for GPU architectures. In the past, I have worked with my mentor to design a scheduler that allows the scheduling of generational dependencies on concurrent GPU environments. I have also worked with my mentor to create a a parallel SSSP algorithm for the CPU which performs better than Bellman-ford while retaining its characteristics. Besides concurrent algorithm and data structure reserach, I also have research experience with Genetic Algorithms, VR, and AR technologies.
+
+Prior to joining the Master's program at the University of Mississippi, I obtained my Bachelor of Science in Computer Science from the University of Mississippi with a minor in Mathematics and an emphasis on Data Science. During my bachelors, I was involved in and led several student-led organizations within the Department of Computer Science, such as ACM, Upsilon Pi Epsilon, CodeMiss (a workshop for teaching high school students the fundamentals of programming), and several honor societies.
+
+I am currently looking for software developer internship or co-op positions for the upcoming year.
+
+<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
 A data-driven personal website
 ======
