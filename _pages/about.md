@@ -20,7 +20,7 @@ I am currently looking for software developer internship or co-op positions for 
 
 Publications
 ======
-* Soumil Datta, and Charles Walter. **EllipScape: A Genetic Algorithm Based Approach to Non-Photorealistic Colored Image Reconstruction for Evolutionary Art**. 57th Hawaii International Conference on System Sciences (HICSS), 2024
+* **EllipScape: A Genetic Algorithm Based Approach to Non-Photorealistic Colored Image Reconstruction for Evolutionary Art** - Soumil Datta, and Charles Walter. 57th Hawaii International Conference on System Sciences (HICSS), 2024 (Accepted, To Be Published)
 
 <!-- A data-driven personal website
 ======
