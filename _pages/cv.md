@@ -9,50 +9,39 @@ redirect_from:
 
 {% include base_path %}
 
+This is a VERY shortened form of my CV. Contact me if you would like my full CV.
+
 Education
 ======
-* M.S. in Computer Science, University of Mississippi 2024
-* B.S. in Computer Science; Minor in Mathematics; Emphasis on Data Science, University of Mississippi, 2022
+* **M.S. in Computer Science**, University of Mississippi 2024
+    * **Relevant Courses**: Machine Learning, Natural Language Processing, Genetic Algorithms, Algorithm Analysis
+* **B.S. in Computer Science**; _Emphasis in Data Science, Minor in Mathematics_; University of Mississippi, 2022
+    * **Relevant Graduate-level Courses**: Data Mining, Computer Architecture & Design, Compiler Design
+    * **Relevant Regular Courses**: Data Science, Information Visualization, Operating Systems, Database Systems
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022 - Current: Graduate Teaching Assistant
+  * University of Mississippi
+  * Duties: Assist students, and grade programming assignments for various courses
+  * Supervisor: [Dr. Kristin Davidson](https://cs.olemiss.edu/faculty/davidson/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2023: Guest Lecturer
+  * University of Mississippi, HEROES Summer Research Program
+  * Duties: Prepare for lectures and teach a class of high school students about CUDA and C++
+  * Supervisor: [Dr. Byunghyun Jang](https://engineering.olemiss.edu/people-byunghyun-jang/)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Spring 2022: CS Lab Teaching Assistant
+  * University of Mississippi
+  * Duties: Assist students with lab work, and grade their lab assignment demonstrations
+  * Supervisors: [Dr. Kristin Davidson](https://cs.olemiss.edu/faculty/davidson/), [Ms. Jennifer Vaughn](https://olemiss.edu/people/jlvaughn)
+
+Awards
+=====
+* __Computer Science SAP Award__
+* __Taylor Medal__
+* __Deans Excellence Award__
+* __Outstanding Student in Computer Science__
+* __CoreLogic Family Award__
+* __Academic Excellence Award__
+* __Bledsoe Award__
