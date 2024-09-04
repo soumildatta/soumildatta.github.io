@@ -13,15 +13,24 @@ This is a VERY shortened form of my CV. Contact me if you would like my full CV.
 
 Education
 ======
+* **Ph.D., in Computer Science**, University of Utah (Current)
+    * **Research Interest**: AI/ML Security & Trustworthiness
+    * **Relevant Courses**: Computer Vision, ML Security
 * **M.S. in Computer Science**, University of Mississippi 2024
+    * **Thesis**: On Interence-Time Adversaries in Object Detection Models
     * **Relevant Courses**: Machine Learning, Natural Language Processing, Genetic Algorithms, Algorithm Analysis
 * **B.S. in Computer Science**; _Emphasis in Data Science, Minor in Mathematics_; University of Mississippi, 2022
     * **Relevant Graduate-level Courses**: Data Mining, Computer Architecture & Design, Compiler Design
     * **Relevant Regular Courses**: Data Science, Information Visualization, Operating Systems, Database Systems
+    * **Significant Awards**: Taylor Medal
 
 Research Experience
 ======
-* Fall 2023 - Current: 
+* Fall 2024 - Current:
+  * Topics: Generative T2I model vulnerabilities
+  * Supervisor: [Dr. Guanhong Tao](https://tao.aisec.world)
+
+* Fall 2023 - Spring 2024: 
   * Topics:
     * Inference-Time Targeted Adversarial Attacks for Object Detectors (current)
     * Genetic Algorithm Optimization for Image Reconstruction Tasks
