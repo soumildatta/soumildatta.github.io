@@ -26,3 +26,21 @@ Awards & Honors
 ======
 * [HICSS 2024 Conference Best Paper Award](https://hicss.hawaii.edu/best-papers/), Jan 2024
 * [Marcus Elvis Taylor Memorial Medal](https://olemiss.meritpages.com/achievements/University-of-Mississippi-Students-Receive-Highest-Academic-Award-Taylor-Medal/146803?), April 2022
+
+Teaching
+======
+* Teaching Assistant, [CSCI 111: Java 1](https://catalog.olemiss.edu/engineering/computer-science/csci-111), University of Mississippi, Fall 2022, Spring 2023, Fall 2023, Spring 2024
+
+* Teaching Assistant, [CSCI 211: Java 3](https://catalog.olemiss.edu/engineering/computer-science/csci-211), University of Mississippi, Fall 2022, Spring 2023, Fall 2023, Spring 2024
+
+* Teaching Assistant, [CSCI 444: Information Visualization in R](https://catalog.olemiss.edu/engineering/computer-science/csci-444), University of Mississippi, Fall 2022, Spring 2022
+
+* Teaching Assistant, [CSCI 475: Introduction to Database Systems](https://catalog.olemiss.edu/engineering/computer-science/csci-475), University of Mississippi, Spring 2023, Spring 2024
+
+* Teaching Assistant, [CSCI 356: Data Structures in Python](https://catalog.olemiss.edu/engineering/computer-science/csci-356), University of Mississippi, Spring 2023, Spring 2024
+
+* Guest Lecture, Heterogeneous Systems Research Lab Summer Research Program, Summer 2023
+
+* Lab Teaching Assistant, [CSCI 111: Java 1]((https://catalog.olemiss.edu/engineering/computer-science/csci-111)), University of Mississippi, Spring 2022
+
+* Guest Lecture, ACM Intro to GitHub Workshop, University of Mississippi, Spring 2019, Fall 2019, Spring 2020

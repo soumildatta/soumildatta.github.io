@@ -14,6 +14,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+  You can also find my articles on <u><a href="https://scholar.google.com/citations?user=kTumEfgAAAAJ&hl=en&oi=sra">my Google Scholar profile</a>.</u>
+
 
 * **Generalized Loss-Function-Based Attacks for Object Detection Models** - Soumil Datta, and Charles Walter. Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS), 2025 *(Accepted for publishing)*
 
