@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This is a VERY shortened form of my CV. Contact me if you would like my full CV.
+This is a shortened form of my CV. Contact me if you would like my full CV.
 
 Education
 ======
