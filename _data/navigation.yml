@@ -13,8 +13,8 @@ main:
     url: /cv/
 
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Awards"
+    url: /awards/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
