@@ -21,8 +21,8 @@ Education
     <!-- * **Relevant Courses**: Machine Learning, Natural Language Processing, Genetic Algorithms, Algorithm Analysis -->
 * **B.S. in Computer Science**; _Emphasis in Data Science, Minor in Mathematics_; University of Mississippi, 2022
     * **Relevant Graduate-level Courses**: Data Mining, Computer Architecture & Design, Compiler Design
-    <!-- * **Relevant Regular Courses**: Data Science, Information Visualization, Operating Systems, Database Systems
-    * **Significant Awards**: Taylor Medal -->
+    <!-- * **Relevant Regular Courses**: Data Science, Information Visualization, Operating Systems, Database Systems -->
+    <!-- * **Significant Awards**: Taylor Medal -->
 
 Research Experience
 ======
