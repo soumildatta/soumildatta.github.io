@@ -7,9 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student @ Kahlert School of Computing, University of Utah. My main research interests are in the field of ML/AI security, trustworthiness, and efficiency working with Professor [Guanhong Tao](https://tao.aisec.world) at the SaLT Lab. My primary motivation is to uncover vulnerabilities and aid in the development of models that are not only robust, secure, and transparent, but also efficiently designed. 
 
-I received my Master of Engineering Science and my B.S. in Computer Science from the University of Mississippi, where I was advised by [Dr. Charles Walter](https://engineering.olemiss.edu/people-charles-walter/) and focused on exploring the vulnerabilities and behavior of the state-of-the-art object detection models. 
+I am a Ph.D. student @ Kahlert School of Computing, University of Utah. I work with [Dr. Guanhong Tao](https://tao.aisec.world) at the SaLT Lab, broadly focusing on ML/AI security and robustness. My primary motivation is to uncover vulnerabilities and aid in the development of models that are not only robust, secure, and transparent, but also efficiently designed. 
+
+I received my Master of Engineering Science and my B.S. in Computer Science from the University of Mississippi. I was advised by [Dr. Charles Walter](https://engineering.olemiss.edu/people-charles-walter/) for my master's thesis where I focused on exploring the vulnerabilities and behavior of the state-of-the-art object detection models. 
 
 Additionally, as part of my diverse research experiences, I was part of the [Heterogeneous Research Lab (HEROES)](https://john.cs.olemiss.edu/heroes/) where I worked on developing a novel concurrent priority queue, as well as algorithms such as an [improved concurrent SSSP algorithm](https://github.com/soumildatta/SpeculateAndCorrect-SSSP), and a GPU scheduler for generational dependencies. I was also part of the [High Fidelity Virtual Environments Lab](http://www.hi5lab.org/doku.php?id=main:members), where I developed VR environments to test the effects of optical illusions in 3D space, and to test the accuracy of AR tracking through streaming services such as video conferencing.
 
