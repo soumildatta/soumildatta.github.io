@@ -17,6 +17,6 @@ author_profile: true
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=kTumEfgAAAAJ&hl=en&oi=sra">my Google Scholar profile</a>.</u>
 
 
-* **Generalized Loss-Function-Based Attacks for Object Detection Models** - Soumil Datta, and Charles Walter. Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS), 2025 *(Accepted for publishing)*
+* **Generalized Loss-Function-Based Attacks for Object Detection Models** - Soumil Datta, and Charles Walter. Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS), 2025 *(Accepted for publishing)* **(Nominated for Best Paper)**
 
 * [**EllipScape: A Genetic Algorithm Based Approach to Non-Photorealistic Colored Image Reconstruction for Evolutionary Art**](https://scholarspace.manoa.hawaii.edu/items/ab5363b0-4431-4a5f-8199-0bcdf5f07acf) - Soumil Datta, and Charles Walter. Proceedings of the 57th Hawaii International Conference on System Sciences (HICSS), 2024 **(Best Paper Award)**
