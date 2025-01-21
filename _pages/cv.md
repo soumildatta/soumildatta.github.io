@@ -52,6 +52,7 @@ Teaching Experience
 * Fall 2022 - Current: Graduate Teaching Assistant
   * University of Mississippi
   * Duties: Assist students, and grade programming assignments for various courses
+  * Courses: [CSCI 111: Java 1](https://catalog.olemiss.edu/engineering/computer-science/csci-111), [CSCI 211: Java 3](https://catalog.olemiss.edu/engineering/computer-science/csci-211), [CSCI 444: Information Visualization in R](https://catalog.olemiss.edu/engineering/computer-science/csci-444), [CSCI 475: Introduction to Database Systems](https://catalog.olemiss.edu/engineering/computer-science/csci-475), [CSCI 356: Data Structures in Python](https://catalog.olemiss.edu/engineering/computer-science/csci-356)
   * Supervisor: [Dr. Kristin Davidson](https://cs.olemiss.edu/faculty/davidson/)
 
 * Summer 2023: Guest Lecturer
@@ -62,6 +63,10 @@ Teaching Experience
   * University of Mississippi
   * Supervisors: [Dr. Kristin Davidson](https://cs.olemiss.edu/faculty/davidson/), [Ms. Jennifer Vaughn](https://olemiss.edu/people/jlvaughn)
 
+* Spring 2020: Guest Lecturer
+  * ACM Intro to GitHub Workshop, University of Mississippi
+
+  
 Awards
 =====
 * Computer Science SAP Award
