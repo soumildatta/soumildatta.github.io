@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. student @ Kahlert School of Computing, University of Utah. I am advised by [Dr. Guanhong Tao](https://tao.aisec.world) at the SaLT Lab, broadly focusing on ML/AI security and robustness. I am currently exploring the various vulnerabilities and unexpected behaviors of generative AI systems such as LLMs and T2I difusion models. My primary motivation is to uncover vulnerabilities and aid in the development of models that are not only robust, secure, and transparent, but also efficiently designed. 
 
-I received my Master of Engineering Science and my B.S. in Computer Science from the University of Mississippi, under the supervision of [Dr. Charles Walter](https://engineering.olemiss.edu/people-charles-walter/), where I focused on exploiting the vulnerabilities and of the state-of-the-art object detection models to develop generalizable adversarial attacks. 
+I received my M.S. in Computer Science from the University of Mississippi, under the supervision of [Dr. Charles Walter](https://engineering.olemiss.edu/people-charles-walter/), where I focused on exploiting the vulnerabilities and of the state-of-the-art object detection models to develop generalizable adversarial attacks. I also received my B.S in Computer Science from here, where I had an emphasis on Data Science and a minor in Mathematics.
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
@@ -24,6 +24,7 @@ Publications
 Awards & Honors
 ======
 * [HICSS 2024 Conference Best Paper Award](https://hicss.hawaii.edu/best-papers/), Jan 2024
+* SAP Computer Science Award, Sep 2023
 * [Marcus Elvis Taylor Memorial Medal](https://olemiss.meritpages.com/achievements/University-of-Mississippi-Students-Receive-Highest-Academic-Award-Taylor-Medal/146803?), April 2022
 * [Outstanding Student in Computer Science Award](https://cs.olemiss.edu/course-descriptions/awards/), Mar 2021
 

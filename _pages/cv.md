@@ -27,7 +27,7 @@ Education
 Research Experience
 ======
 * Fall 2024 - Current:
-  * Topics: Generative T2I model vulnerabilities
+  * Topic: Generative model vulnerabilities and security
   * Supervisor: [Dr. Guanhong Tao](https://tao.aisec.world)
 
 * Fall 2023 - Spring 2024: 
