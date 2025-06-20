@@ -7,8 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- I am a Ph.D. student at the Kahlert School of Computing, University of Utah, jointly advised by Dr. David Brown in the ARIA Lab and Dr. Guanhong Tao in the SaLT Lab.
 
-I am a Ph.D. student @ Kahlert School of Computing, University of Utah. I am advised by [Dr. Brown](https://users.cs.utah.edu/~dsbrown/) @ [ARIA Lab](https://aria-lab.cs.utah.edu) & [Dr. Guanhong Tao](https://tao.aisec.world) @ SaLT Lab, broadly focusing on ML/AI security and robustness in the field of robotics and generative AI. My primary motivation is to uncover vulnerabilities and aid in the development of models that are not only robust, secure, and transparent, but also efficiently designed.
+My research lies at the intersection of machine learning security, robustness, and efficiency—particularly in the domains of robotics and generative AI. With Dr. Brown, I work on securing autonomous and robotic systems by identifying and mitigating vulnerabilities in learning-based control and decision-making. Under Dr. Tao, I explore adversarial robustness and trustworthy design in generative models.
+
+My overarching goal is to develop AI systems that are robust, secure, transparent, and computationally efficient. -->
+
+
+I am a Ph.D. student @ Kahlert School of Computing, University of Utah. I am jointly advised by [Dr. Brown](https://users.cs.utah.edu/~dsbrown/) in the [ARIA Lab](https://aria-lab.cs.utah.edu) & [Dr. Guanhong Tao](https://tao.aisec.world) in the SaLT Lab.
+
+My research focuses on machine learning security and robustness at the intersection of generative AI and robotics. I currently work on securing autonomous and robotic systems by uncovering and mitigating vulnerabilities in learning-based control and decision-making, particularly using reinforcement learning and Transformer-based models. I also explore the robustness and trustworthiness of generative models built on modern Transformer architectures.
+
+Ultimately, my goal is to uncover both vulnerabilities and defenses in AI systems, and to promote more robust, secure, and thoughtful model development as the field advances.
+<!-- , broadly focusing on ML/AI security and robustness in the field of robotics and generative AI. My primary motivation is to uncover vulnerabilities and aid in the development of models that are not only robust, secure, and transparent, but also efficiently designed. -->
 
 I received my M.S. in Computer Science from the University of Mississippi, under the supervision of [Dr. Charles Walter](https://olemiss.edu/profiles/cwwalter) @ the [SPARC Lab](https://sites.olemiss.edu/charleswalterlab), where I focused on exploiting the vulnerabilities and of the state-of-the-art object detection models to develop generalizable adversarial attacks.
 
