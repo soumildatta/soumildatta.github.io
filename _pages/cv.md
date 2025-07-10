@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-This is a shortened form of my CV. Contact me if you would like my full CV.
+This is a shortened form of my CV. If you would like my full CV, feel free to reach out.
 
 Education
 ======
@@ -26,7 +26,10 @@ Education
 
 Research Experience
 ======
-* Fall 2024 - Current:
+* **Spring 2025 - Current**:
+  * Topic: Vulnerabilities and defenses in AI in Autonomous Systems/Robotics applications
+  * Supervisor: [Dr. Daniel Brown](https://users.cs.utah.edu/~dsbrown/)
+* **Fall 2024 - Current**:
   * Topic: Generative model vulnerabilities and security
   * Supervisor: [Dr. Guanhong Tao](https://tao.aisec.world)
 
@@ -49,7 +52,15 @@ Research Experience
 
 Teaching Experience
 ======
-* Fall 2022 - Current: Graduate Teaching Assistant
+* Fall 2025 - Current: Graduate Teaching Assistant
+  * University of Utah
+  * Courses: CS 4300: Artificial Intelligence
+
+* Spring 2024: Graduate Teaching Assistant
+  * University of Utah
+  * Courses: CS 5956-001: Intro to Machine Learning
+
+* Fall 2022 - Spring 2024: Graduate Teaching Assistant
   * University of Mississippi
   * Duties: Assist students, and grade programming assignments for various courses
   * Courses: [CSCI 111: Java 1](https://catalog.olemiss.edu/engineering/computer-science/csci-111), [CSCI 211: Java 3](https://catalog.olemiss.edu/engineering/computer-science/csci-211), [CSCI 444: Information Visualization in R](https://catalog.olemiss.edu/engineering/computer-science/csci-444), [CSCI 475: Introduction to Database Systems](https://catalog.olemiss.edu/engineering/computer-science/csci-475), [CSCI 356: Data Structures in Python](https://catalog.olemiss.edu/engineering/computer-science/csci-356)
