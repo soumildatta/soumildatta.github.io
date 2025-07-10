@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-# CS 5956-001 Intro to Machine Learning
-**Office Hours**: Mondays, 1:30pm - 2:30pm
+# CS 4600 - Artificial Intelligence
+**Office Hours**: TBD
 Please email or send a Canvas message for any questions you may have!
 
 ## Previous Courses:
+### University of Utah
+* **CS 5956-001** - Intro to Machine Learning ([Dr. Guanhong Tao](https://tao.aisec.world))
+
+### University of Mississippi 
 I was a teaching assistant at the University of Mississippi for all of [Dr. Kristin Davidson's](https://cs.olemiss.edu/faculty/davidson/) courses which includes:
 * **CSCI 111** - Java 1 (honors)
 * **CSCI 211** - Java 3
