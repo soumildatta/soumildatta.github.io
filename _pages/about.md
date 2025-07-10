@@ -35,7 +35,7 @@ Publications
 Awards & Honors
 ======
 * [HICSS 2024 Conference Best Paper Award](https://hicss.hawaii.edu/best-papers/), Jan 2024
-* SAP Computer Science Award, Sep 2023
+* <u>SAP Computer Science Award</u>, Sep 2023
 * [Marcus Elvis Taylor Memorial Medal](https://olemiss.meritpages.com/achievements/University-of-Mississippi-Students-Receive-Highest-Academic-Award-Taylor-Medal/146803?), April 2022
 * [Outstanding Student in Computer Science Award](https://cs.olemiss.edu/course-descriptions/awards/), Mar 2021
 
