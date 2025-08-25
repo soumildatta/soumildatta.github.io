@@ -14,7 +14,7 @@ My research lies at the intersection of machine learning security, robustness, a
 My overarching goal is to develop AI systems that are robust, secure, transparent, and computationally efficient. -->
 
 
-I am a Ph.D. student @ Kahlert School of Computing, University of Utah. I am jointly advised by [Dr. Daniel Brown](https://users.cs.utah.edu/~dsbrown/) in the [ARIA Lab](https://aria-lab.cs.utah.edu), & [Dr. Guanhong Tao](https://tao.aisec.world) in the SaLT Lab.
+I am a Ph.D. student @ Kahlert School of Computing, University of Utah. I am jointly advised by [Dr. Daniel Brown](https://users.cs.utah.edu/~dsbrown/) ([ARIA Lab](https://aria-lab.cs.utah.edu)), & [Dr. Guanhong Tao](https://tao.aisec.world) (SaLT Lab).
 
 My research focuses on machine learning security and robustness at the intersection of generative AI and robotics. I currently work on securing autonomous and robotic systems by uncovering and mitigating vulnerabilities in learning-based control and decision-making, particularly using reinforcement learning and Transformer-based models. I also explore the robustness and trustworthiness of generative models built on modern Transformer architectures.
 
