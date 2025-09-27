@@ -27,7 +27,7 @@ I received my M.S. in Computer Science from the University of Mississippi, under
 
 Publications
 ======
-* Dataset Poisoning in Behavioral Cloning Policies - Akansha Kalra, **Soumil Datta**, Ethan Gilmore, Duc La, Guanhong Tao, Daniel S. Brown. International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (SmartSP), 2025 **(Accepted as Short Paper)**
+* <ins>**Dataset Poisoning in Behavioral Cloning Policies**</ins> - Akansha Kalra, **Soumil Datta**, Ethan Gilmore, Duc La, Guanhong Tao, Daniel S. Brown. International Conference on Security and Privacy in Cyber-Physical Systems and Smart Vehicles (SmartSP), 2025 **(Accepted as Short Paper)**
 
 * [**Generalized Loss-Function-Based Attacks for Object Detection Models**](https://scholarspace.manoa.hawaii.edu/items/e961a7c8-79b9-4961-ba8e-16a145d67333) - **Soumil Datta**, and Charles Walter. Proceedings of the 58th Hawaii International Conference on System Sciences (HICSS), 2025 **(Nominated for Best Paper)**
 
