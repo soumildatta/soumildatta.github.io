@@ -26,18 +26,21 @@ Education
 
 Research Experience
 ======
-* **Spring 2025 - Current**:
+* **Spring 2025 - Current** | Univ. of Utah:
   * Topic: Vulnerabilities and defenses in AI in Autonomous Systems/Robotics applications
   * Supervisor: [Dr. Daniel Brown](https://users.cs.utah.edu/~dsbrown/)
-* **Fall 2024 - Current**:
+* **Fall 2024 - Current** | Univ. of Utah:
   * Topic: Generative model vulnerabilities and security
   * Supervisor: [Dr. Guanhong Tao](https://tao.aisec.world)
 
-* Fall 2023 - Spring 2024: 
+* Masters @ Univ. of Mississippi (Fall 2023 - Spring 2024): 
   * Topics: Inference-Time Targeted Adversarial Attacks for Object Detectors, Genetic Algorithm Optimization for Image Reconstruction Tasks
   * Supervisor: [Dr. Charles Walter](https://engineering.olemiss.edu/people-charles-walter/)
 
-* Fall 2021 - Spring 2023: 
+* Undergraduate Research Experience @ Univ. of Mississippi (Fall 2020 - Spring 2023)
+  * Worked across multiple labs on diverse research topics spanning systems, machine learning, and human–computer interaction. Projects included developing GPU-based concurrent data structures and task schedulers for high-performance computing (under [Dr. Byunghyun Jang](https://engineering.olemiss.edu/people-byunghyun-jang/), improving ML model preprocessing and accuracy within the [BatAlloc Framework](https://dl.acm.org/doi/10.1145/3077839.3077863) (under [Dr. Feng Wang](https://engineering.olemiss.edu/people-feng-wang/)), and studying perceptual illusions and AR tracking accuracy in immersive 3D environments (under [Dr. J Adam Jones](http://hi5lab.org/doku.php?id=adam_jones:home)).
+
+<!-- * Fall 2021 - Spring 2023: 
   * Topics: GPGPU Concurrent Priority Queue, Bellman-Ford-Based CPU and GPU Concurrent SSSP Algorithm, Pool-Based GPU Task Scheduler for Generationally Dependent Data
   * Supervisor: [Dr. Byunghyun Jang](https://engineering.olemiss.edu/people-byunghyun-jang/)
 
@@ -47,8 +50,9 @@ Research Experience
 
 * Fall 2020 - Spring 2021:
   * Topics: Evaluating effects of Flash-Lag Illusion in Humans in 3D VR space, Accuracy of AR Target Tracking through video conferencing software
-  * Supervisor: [Dr. J Adam Jones](http://hi5lab.org/doku.php?id=adam_jones:home)
+  * Supervisor: [Dr. J Adam Jones](http://hi5lab.org/doku.php?id=adam_jones:home) -->
 
+* 
 
 Teaching Experience
 ======
@@ -72,8 +76,7 @@ Teaching Experience
 
 * Spring 2022: CS Lab Teaching Assistant
   * University of Mississippi
-  * Supervisors: [Dr. Kristin Davidson](https://cs.olemiss.edu/faculty/davidson/), [Ms. Jennifer Vaughn](https://olemiss.edu/people/jlvaughn)
-
+  * Supervisors: [Dr. Kristin Davidson](https://cs.olemiss.edu/faculty/davidson/)
 * Spring 2020: Guest Lecturer
   * ACM Intro to GitHub Workshop, University of Mississippi
 
@@ -85,5 +88,6 @@ Awards
 * Deans Excellence Award
 * Outstanding Student in Computer Science
 * CoreLogic Family Award
+* Provost Scholar
 * Academic Excellence Award
 * Bledsoe Award
