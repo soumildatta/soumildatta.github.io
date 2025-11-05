@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 # CS 4600 - Artificial Intelligence
-**Office Hours**: TBD
-Please email or send a Canvas message for any questions you may have!
+**Office Hours**:
+Please email or post on Piazza for any questions you may have!
 
 ## Previous Courses:
 ### University of Utah
