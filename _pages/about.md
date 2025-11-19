@@ -27,6 +27,9 @@ I received my M.S. in Computer Science from the University of Mississippi, under
 
 Publications
 ======
+
+* <ins>**Evading Intellectual Property Model Protections via Limited Fine-tuning**</ins> - **Soumil Datta**, Shih-Chieh Dai, Leo Yu, Guanhong Tao. **(Under Review)**
+
 * <ins>**Dataset Poisoning in Behavioral Cloning Policies**</ins> - Akansha Kalra, **Soumil Datta**, Ethan Gilmore, Duc La, Guanhong Tao, Daniel S. Brown. _EAI SmartSP 2025_ **(Accepted as Short Paper)**
 
 * [**Generalized Loss-Function-Based Attacks for Object Detection Models**](https://scholarspace.manoa.hawaii.edu/items/e961a7c8-79b9-4961-ba8e-16a145d67333) - **Soumil Datta**, and Charles Walter. _HICSS 2025_ **(Nominated for Best Paper)**
