@@ -1,0 +1,17 @@
+# Research cards. The "/01", "/02" numbering is added automatically.
+# Fields:  kicker (short label)  ·  title  ·  text  ·  tags (list)
+
+- kicker: "attack & defend"
+  title: "Securing Generative Models"
+  text: "Protecting LLMs, VLMs, and diffusion models from malicious manipulation (adversarial prompts, compromised weights, stolen model IP), and building robust foundations for trustworthy generation."
+  tags: [LLMs, VLMs, diffusion]
+
+- kicker: "embodied"
+  title: "Robust Robot Learning"
+  text: "Identifying vulnerabilities in autonomous and robotic systems built on transformer architectures, from dataset poisoning in behavioral cloning to failures in learning-based control."
+  tags: [imitation learning, autonomy]
+
+- kicker: "perception"
+  title: "Adversarial Perception"
+  text: "Generalizable, loss-function-based adversarial attacks against state-of-the-art object detection models: understanding what perception systems actually learn, and how it fails."
+  tags: [object detection, attacks]

@@ -1,0 +1,22 @@
+# News items — newest first. Add a new entry by copying a block.
+# Fields:  date (string)  ·  text (supports **bold**, *italic*, [links](url))
+# Add `hidden: true` to keep a draft here without showing it on the site.
+
+- date: "2025"
+  hidden: true
+  text: 'Two first-author papers **under review**: one on sanitizing malicious LLM instructions, and one on evading model IP protections via limited fine-tuning.'
+
+- date: "2026"
+  text: 'Presented a poster of our prompt-injection defense SONAR at the 2026 UtahAI Convergence.'
+
+- date: "2025"
+  text: '**"Dataset Poisoning in Behavioral Cloning Policies"** accepted at **EAI SmartSP 2025**.'
+
+- date: "Jan 2025"
+  text: 'Presented our generalized attacks on object detectors at **HICSS 2025**, where it was **nominated for Best Paper**.'
+
+- date: "Fall 2024"
+  text: 'Started my **Ph.D.** at the Kahlert School of Computing, University of Utah.'
+
+- date: "Jan 2024"
+  text: '🏆 **Best Paper Award** at **HICSS 2024** for EllipScape.'

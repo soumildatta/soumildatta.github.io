@@ -1,0 +1,10 @@
+# Teaching summary shown on the home page.
+# paragraphs: one entry per paragraph (supports **bold**, *italic*, [links](url))
+# link: the "full history" link at the bottom (optional)
+
+paragraphs:
+  - "Now a full-time research assistant, I previously TA'd **Artificial Intelligence** and **Intro to Machine Learning** at the University of Utah, along with a wide range of courses at the University of Mississippi, from Java and data structures to databases and information visualization in R."
+
+link:
+  text: "Full teaching history →"
+  url: "/teaching/"

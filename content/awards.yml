@@ -1,0 +1,17 @@
+# Awards & honors — newest first.
+# Fields:  text (required)  ·  link (optional)  ·  date (optional)
+
+- text: "HICSS 2024 Conference Best Paper Award"
+  link: "https://hicss.hawaii.edu/best-papers/"
+  date: "Jan 2024"
+
+- text: "SAP Computer Science Award"
+  date: "Sep 2023"
+
+- text: "Marcus Elvis Taylor Memorial Medal, the University of Mississippi's highest academic award"
+  link: "https://olemiss.meritpages.com/achievements/University-of-Mississippi-Students-Receive-Highest-Academic-Award-Taylor-Medal/146803?"
+  date: "Apr 2022"
+
+- text: "Outstanding Student in Computer Science Award"
+  link: "https://cs.olemiss.edu/course-descriptions/awards/"
+  date: "Mar 2021"

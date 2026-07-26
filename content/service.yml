@@ -1,0 +1,23 @@
+# Service. Each group has a heading and a list of venue chips.
+# Chip fields:  name (short)  ·  years (e.g. "'25 '26")  ·  full (full venue name)
+
+- heading: "Volunteer:"
+  venues:
+    - name: "ACM CCS"
+      years: "'24"
+      full: "Conference Volunteer"
+
+- heading: "Subreviewer for top venues in security and machine learning:"
+  venues:
+    - name: "S&P"
+      years: "'25 '26"
+      full: "IEEE Symposium on Security and Privacy"
+    - name: "NeurIPS"
+      years: "'24 '25"
+      full: "Neural Information Processing Systems"
+    - name: "CCS"
+      years: "'25"
+      full: "ACM Conf. on Computer and Communications Security"
+    - name: "SaTML"
+      years: "'26"
+      full: "IEEE Conf. on Secure and Trustworthy ML"

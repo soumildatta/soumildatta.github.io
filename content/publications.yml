@@ -1,0 +1,32 @@
+# Publications — newest / most prominent first.
+# Fields:
+#   title    (required)
+#   authors  (required; use **bold** to emphasize your own name)
+#   link     (optional; makes the title a link)
+#   status   (optional; grey badge, e.g. "under review")
+#   venue    (optional; blue badge, e.g. "HICSS 2025")
+#   award    (optional; gold badge — say "best paper award" or "... nominee")
+
+- title: "A Sentence Relation-Based Approach to Sanitizing Malicious Instructions"
+  authors: "**Soumil Datta**, Melissa Umble, Daniel S. Brown, Guanhong Tao"
+  status: "under review"
+
+- title: "Evading Intellectual Property Model Protections via Limited Fine-tuning"
+  authors: "**Soumil Datta**, Shih-Chieh Dai, Leo Yu, Guanhong Tao"
+  status: "under review"
+
+- title: "Dataset Poisoning in Behavioral Cloning Policies"
+  authors: "Akansha Kalra, **Soumil Datta**, Ethan Gilmore, Duc La, Guanhong Tao, Daniel S. Brown"
+  venue: "EAI SmartSP 2025"
+
+- title: "Generalized Loss-Function-Based Attacks for Object Detection Models"
+  authors: "**Soumil Datta**, Charles Walter"
+  link: "https://scholarspace.manoa.hawaii.edu/items/e961a7c8-79b9-4961-ba8e-16a145d67333"
+  venue: "HICSS 2025"
+  award: "best paper nominee"
+
+- title: "EllipScape: A Genetic Algorithm Based Approach to Non-Photorealistic Colored Image Reconstruction for Evolutionary Art"
+  authors: "**Soumil Datta**, Charles Walter"
+  link: "https://scholarspace.manoa.hawaii.edu/items/ab5363b0-4431-4a5f-8199-0bcdf5f07acf"
+  venue: "HICSS 2024"
+  award: "best paper award"
