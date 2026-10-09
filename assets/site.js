@@ -1,8 +1,6 @@
 // theme toggle -----------------------------------------------------------
 function currentTheme() {
-  var explicit = document.documentElement.getAttribute("data-theme");
-  if (explicit) return explicit;
-  return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+  return document.documentElement.getAttribute("data-theme") || "light";
 }
 
 function toggleTheme() {

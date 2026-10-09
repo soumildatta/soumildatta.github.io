@@ -7,7 +7,7 @@
   text: 'Two first-author papers **under review**: one on sanitizing malicious LLM instructions, and one on evading model IP protections via limited fine-tuning.'
 
 - date: "2026"
-  text: 'Presented a poster of our prompt-injection defense SONAR at the 2026 UtahAI Convergence.'
+  text: 'Presented a poster of our prompt-injection defense SONAR at the **2026 UtahAI Convergence**.'
 
 - date: "2025"
   text: '**"Dataset Poisoning in Behavioral Cloning Policies"** accepted at **EAI SmartSP 2025**.'
