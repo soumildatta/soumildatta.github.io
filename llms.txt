@@ -1,0 +1,19 @@
+# Soumil Datta
+
+> Ph.D. student at the Kahlert School of Computing, University of Utah, researching machine learning security: adversarial attacks and defenses for LLMs, VLMs, and diffusion models, and the robustness of learning-based robotic systems. Jointly advised by Daniel Brown (ARIA Lab) and Guanhong Tao (SaLT Lab).
+
+## Pages
+- [Home: research, publications, news, awards, service](https://soumildatta.github.io/): overview of research areas and full publication list
+- [CV](https://soumildatta.github.io/cv/): education, research and teaching experience, awards
+- [Teaching](https://soumildatta.github.io/teaching/): teaching assistant history at the University of Utah and University of Mississippi
+
+## Research areas
+- Securing generative models: prompt injection defense, model IP protection, adversarial manipulation of LLMs/VLMs/diffusion models
+- Robust robot learning: dataset poisoning in behavioral cloning, vulnerabilities of learning-based control
+- Adversarial perception: loss-function-based attacks on object detection models
+
+## Profiles
+- [Google Scholar](https://scholar.google.com/citations?user=kTumEfgAAAAJ)
+- [GitHub](https://github.com/soumildatta)
+- [LinkedIn](https://www.linkedin.com/in/soumildatta)
+- [ORCID](https://orcid.org/0009-0001-9430-9089)
