@@ -8,7 +8,7 @@
 #   award    (optional; gold badge — say "best paper award" or "... nominee")
 - title: "A Rose by Any Other Name Is Not as Sweet: How Rephrasings Induce Failures in Embodied AI"
   authors: "**Soumil Datta**, Atharv Belsare, Ali Larian, Guanhong Tao, Daniel S. Brown"
-  status: "Accepted to CoRL Science of Physical Safety (SPAIS) Workshop 2026"
+  venue: "Accepted to CoRL Science of Physical Safety (SPAIS) Workshop 2026"
 
 - title: "A Sentence Relation-Based Approach to Sanitizing Malicious Instructions"
   authors: "**Soumil Datta**, Melissa Umble, Daniel S. Brown, Guanhong Tao"
@@ -32,4 +32,4 @@
   authors: "**Soumil Datta**, Charles Walter"
   link: "https://scholarspace.manoa.hawaii.edu/items/ab5363b0-4431-4a5f-8199-0bcdf5f07acf"
   venue: "HICSS 2024"
-  award: "best paper award"
+  award: "best paper award 🏆"
