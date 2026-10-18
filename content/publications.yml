@@ -6,6 +6,9 @@
 #   status   (optional; grey badge, e.g. "under review")
 #   venue    (optional; blue badge, e.g. "HICSS 2025")
 #   award    (optional; gold badge — say "best paper award" or "... nominee")
+- title: "A Rose by Any Other Name Is Not as Sweet: How Rephrasings Induce Failures in Embodied AI"
+  authors: "**Soumil Datta**, Atharv Belsare, Ali Larian, Guanhong Tao, Daniel S. Brown"
+  status: "Accepted to CoRL Science of Physical Safety (SPAIS) Workshop 2026"
 
 - title: "A Sentence Relation-Based Approach to Sanitizing Malicious Instructions"
   authors: "**Soumil Datta**, Melissa Umble, Daniel S. Brown, Guanhong Tao"
