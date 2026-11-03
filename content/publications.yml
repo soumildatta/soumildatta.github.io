@@ -8,6 +8,7 @@
 #   award    (optional; gold badge — say "best paper award" or "... nominee")
 - title: "A Rose by Any Other Name Is Not as Sweet: How Rephrasings Induce Failures in Embodied AI"
   authors: "**Soumil Datta**, Atharv Belsare, Ali Larian, Guanhong Tao, Daniel S. Brown"
+  link: "https://www.alphaxiv.org/abs/2611.rephrasings-embodied-ai-planner-failures"
   venue: "Accepted to CoRL Science of Physical Safety (SPAIS) Workshop 2026"
 
 - title: "A Sentence Relation-Based Approach to Sanitizing Malicious Instructions"
