@@ -5,7 +5,7 @@
   venues:
     - name: "CoRL SPAIS"
       years: "'26"
-      full: "Conf. on Robot Learning (CoRL) 2026 Workshop on the Science of Physical AI Safety (SPAIS)"
+      full: "CoRL 2026 Workshop on the Science of Physical AI Safety (SPAIS)"
 
 - heading: "Subreviewer for top venues in security and machine learning:"
   venues:
